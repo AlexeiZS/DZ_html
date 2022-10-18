@@ -1,0 +1,32 @@
+
+body{
+	background-color:rgb(230,230,230);
+}
+
+.box{
+	padding: 7px;
+	margin: 25px;
+	background-color: rgb(255,140,140);
+}
+ul{
+	padding: 0px;
+}
+
+
+li{
+	background-color: rgb(165,80,85);
+	color: white;
+	padding: 12px;
+	margin:12px;
+	font-size: 18px;
+	font-family: verdana;
+}
+span
+{
+	background-color: rgb(125,40,55);
+	padding:12px;
+    
+}
+
+
+  
